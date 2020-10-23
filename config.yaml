@@ -1,0 +1,2 @@
+mysql: dev:qFkhoRmR0qCtDglZjQ9y@tcp(rm-t4n22293kwn7is2563o.mysql.singapore.rds.aliyuncs.com:3306)/ops?charset=utf8&parseTime=True&loc=Local
+bindAddress: :8901
